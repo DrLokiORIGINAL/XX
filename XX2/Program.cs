@@ -13,6 +13,6 @@ namespace XX2
                 numbers[e] /= y;
             }
             Console.WriteLine(string.Join(" ", numbers));
-        }
+        } 
     }
 }
